@@ -1,0 +1,50 @@
+.container {
+    color: white;
+    position: absolute;
+    top: 29%;
+    left: 29%;}
+h1{
+    font-size: 18px;
+    border-bottom: 3px solid purple;
+    margin-bottom: 6px;
+    padding: 5px 0;
+    display: inline-block;
+    width: 30%;
+}
+.container>i{
+    font-size: 18px;
+    position: absolute;
+    top: 15px;
+    left: 72px;
+}
+.box {
+    width: 85%;
+    border-bottom: 2px solid purple;
+}
+.box input{
+    width: 69%;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 6px 5px;
+    margin: 10px 15px;
+    border-radius: 5px;
+    background: none;
+    font-size: 11px;
+}
+.box i{
+    width: 5px;
+    text-align: center;
+    font-size: 12px;
+}
+.btn{
+    outline: none;
+    cursor: pointer;
+    width: 29%;
+    margin: 14px 15px;
+    padding: 3px;
+    border-radius: 10px;
+    background: none;
+    border: 2px solid purple;
+    color: white;
+    font-size: 11px;}
